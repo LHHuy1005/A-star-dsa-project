@@ -1,4 +1,4 @@
-package A_Star_simulation;
+package A_star_algorithm_dsa_project;
 
 
 // LƯU Ý: phần đồ họa chỉ hiển thị đúng vị trí khi màn hình có kích thước >= 15.6 inch

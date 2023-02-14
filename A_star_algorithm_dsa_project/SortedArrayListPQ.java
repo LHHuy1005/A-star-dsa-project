@@ -1,4 +1,4 @@
-package A_Star_simulation;
+package A_star_algorithm_dsa_project;
 
 import java.util.ArrayList;
 
